@@ -1,0 +1,19 @@
+
+    Hello team,
+
+    Please reach out to the following people for the project:
+    - Project Lead: avinash.kamella@gmail.com
+    - HR Contact: hr.codealpha@company.org
+    - Tech Support: support@codealpha.tech
+    - Client Email: john.doe@clientcorp.in
+    - Invalid entry: notanemail@
+    - Also invalid: @missingusername.com
+    - Another valid one: intern2024@yahoo.co.in
+    - Manager: ramesh_kumar@infosys.com
+    - Random text with email: contact us at hello@world.net for more info.
+    - Duplicate test: avinash.kamella@gmail.com (should appear only once)
+
+    Regards,
+    CodeAlpha Team
+    services@codealpha.tech
+    

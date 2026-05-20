@@ -1,0 +1,12 @@
+Extracted Email Addresses
+==============================
+avinash.kamella@gmail.com
+hello@world.net
+hr.codealpha@company.org
+intern2024@yahoo.co.in
+john.doe@clientcorp.in
+ramesh_kumar@infosys.com
+services@codealpha.tech
+support@codealpha.tech
+==============================
+Total: 8 unique email(s) found
